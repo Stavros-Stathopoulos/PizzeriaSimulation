@@ -4,6 +4,9 @@
 ## Overview
 This Java program is a Pizzeria Simulation that explores three different order management procedures:
 
+![image](https://github.com/Stavros-Stathopoulos/PizzeriaSimulation/assets/38631315/fc747677-2237-45f9-b105-29fcfe943c05)
+
+
 PizzaFIFO: Orders are handled using the FIFO algorithm, where the first order taken is the first order served.
 PizzaRandom: Orders are processed in a random order.
 PizzaProfit: Orders are prioritized based on their price, with the most expensive orders served first.

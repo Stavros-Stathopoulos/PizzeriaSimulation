@@ -109,6 +109,7 @@ public class MasterPanel extends JPanel {
             System.out.println(textField2.getText());
             System.out.println(textField3.getText());
             System.out.println("Start Simulation");
+            new SimulationFrame(textField.getText(), textField2.getText(), textField3.getText());
         });
         return startSimulationButton;
     }
